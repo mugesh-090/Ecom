@@ -1,0 +1,23 @@
+.Cards{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding-left: 36px;
+    background: #f8fc1f;
+  
+}
+
+.card-img-top{
+    height: 200px;
+    width: 285px
+}
+#btnlg1{
+    padding: 10px;
+
+    display: flex;;
+   
+ justify-content: center;
+   
+}
+
+

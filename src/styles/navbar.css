@@ -1,0 +1,33 @@
+
+
+.nav-item{
+    padding-left: 20px;
+} 
+ 
+.navbar{
+    background: #fffb05;
+}
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+
+ #navbarSupportedContent{
+    display: flex;
+    
+    
+}
+
+ #btnlg{
+    padding-bottom: 10px;
+}
+
+#btnlg{
+    display: flex;;
+   
+ 
+   
+}
+
+
+
