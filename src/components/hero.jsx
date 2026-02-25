@@ -13,15 +13,15 @@ const Hero = () => {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="../src/assets/img1.png" className="img" alt="..."></img>
+      <img src="../src/assets/img1.png" className="img" alt="... offer image"></img>
     </div>
 
     <div className="carousel-item ">
-      <img src="../src/assets/img2.png" className="img" alt="..."></img>
+      <img src="../src/assets/img2.png" className="img" alt="...offer image"></img>
     </div>
 
     <div className="carousel-item ">
-      <img src="../src/assets/img3.png" className="img" alt="..."></img>
+      <img src="../src/assets/img3.png" className="img" alt="...offer image"></img>
     </div>
     
   
